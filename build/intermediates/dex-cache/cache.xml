@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Sheetal\Android Projects\USBStorageAccess\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="159ed895590879e934916d6d9c17115ef6892ead">
+        <dex dex="E:\Sheetal\Android Projects\USBStorageAccess\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d3cb232fbb9086803182a9e7f87132e957bd0f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sheetal\Android Projects\USBStorageAccess\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Sheetal\Android Projects\USBStorageAccess\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ce38fe687e39d1a9750e07f00e13807f671c0de9\classes.dex" />
+    </item>
+
+</items>
